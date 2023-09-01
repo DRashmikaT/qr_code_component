@@ -1,0 +1,30 @@
+.attribution
+ { font-size: 11px; text-align: center;
+   position: relative; top: 3cm;
+ }
+
+.attribution a
+{ color: hsl(228, 45%, 44%); }
+
+body{
+  background-color: #d5e1ef;
+}
+.qr{
+  /* display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px; */
+  width: 284px;
+  height: 285px;
+  border-radius: 10px;
+  position: relative;
+  top: 13px; left: 13px;right: 13px;
+}
+.box{
+   background-color: white;
+   display: block;
+   height: 480px;
+   width: 310px;
+   border-radius: 10px;
+   margin:  50px auto  50px auto;
+}
